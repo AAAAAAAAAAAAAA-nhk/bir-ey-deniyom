@@ -4,12 +4,13 @@
     box-sizing: border-box;
     color: #fff;
     font-size: 14px;
-    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,Tahoma,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Open Sans,sans-serif; 
 }
 
 body{
     background-color: #282828;
+    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,Tahoma,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Open Sans,sans-serif; 
 }
+
 
 .header{
     height: 50px;
@@ -18,7 +19,9 @@ body{
     background-color: #126E51;
     display: flex;
     align-items: center;
+    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,Tahoma,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Open Sans,sans-serif; 
 }
+
 
 
 .header .side-bar{
@@ -133,6 +136,9 @@ body{
     border-radius: 50%;
 }
 
+.header .user .balance {
+    font-size: 12px;
+}
 
 /*Header sonu */ 
 
@@ -217,6 +223,7 @@ body{
 
 .top .amount {
     font-size: 20px;
+    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,Tahoma,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Open Sans,sans-serif;
     color: #38FFA8;
     font-weight: bolder;
 
